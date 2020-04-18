@@ -1,0 +1,231 @@
+[
+    {
+        "hero_id": 1,
+        "name": "HAYABUSA",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/7/78/Hayabusa.png",
+        "skin": [
+            {
+                "name": "Shadow of Obscurity",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/HayabusaEpic1.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/shadow_of_obscurity.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 2,
+        "name": "LANCELOT",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/c/cd/Lancelot.png",
+        "skin": [
+            {
+                "name": "Floral Knight",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/LancelotEpic.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/lancelot_floral_night.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 3,
+        "name": "GUISON",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/b/b2/Gusion.png",
+        "skin": [
+            {
+                "name": "Moonlight Sonata",
+                "url_download": "https://github.com/tejjliit/third/raw/master/GuisonMoonLightSonata.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/gusion_moonlight_sotana.png"
+            },
+            {
+                "name": "Gusion saber",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/GusionS.A.B.E.R.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/gusion_venom.png"
+            },
+            {
+                "name": "V.E.N.O.M Emperor Scorpion",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/GuisonVenom.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/gusion_venom.png"
+            },
+            {
+                "name": "K",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/GusionFullEffectsKOF.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/k_gusion.png"
+            },
+            {
+                "name": "Iori_YaGusion:",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/GusionFullEffectsKOF.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/lori_yagusion.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 4,
+        "id": 4,
+        "name": "GRANGER",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/4d/Granger.png",
+        "skin": [
+            {
+                "name": "Lightbor Overrider",
+                "url_download": " https://github.com/tejjliit/fourth/raw/master/GrangerLightborn.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/granger_overrider.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 4,
+        "name": "FANNY",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/54/Fanny.png",
+        "skin": [
+            {
+                "name": "Skylark",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/FannyEpic.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/fanny_skylark.png"
+            },
+            {
+                "name": "Lightborn Ranger",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/FannyLightborn.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/fanny_lightborn_ranger.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 6,
+        "name": "LESLEY",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/69/Lesley.png",
+        "skin": [
+            {
+                "name": "Lightborn Agent",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/LesleyAngelicAgent.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/lesley_angelic_Agent.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 7,
+        "name": "FRANCO",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/48/Franco.png",
+        "skin": [       
+            {
+                "name": "Wheatfield Nightmare",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/FrancoSpecial.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/franco_wheatfield_nightmare.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 8,
+        "id": 8,
+        "name": "KIMMY",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/65/Kimmy.png",
+        "skin": [
+            {
+                "name": "Astrocat",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/KimmyAstrocat.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/kimmy_astrocat.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 9,
+        "name": "KARRIE",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/11/Karrie.png",
+        "skin": [
+            {
+                "name": "Gill Girl",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/KarrieMermaid.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/karrie_gill_girl.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 10,
+        "name": "CLAUDE",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/0b/Claude.png",
+        "skin": [
+            {
+                "name": "Mecha Dragon",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/CluadeEpic.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/claude_meca_dragon.png"
+            }
+        ]
+    },
+    {
+        "hero_id": 11,
+        "name": "IRITHEL",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/6b/Irithel.png",
+        "skin": [
+            
+            {
+                "name": "Hellfire",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/IrithelEpic.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/irithel_hill_fire.png"
+            }
+        ]
+    },
+     {
+        "id": 27,
+        "name": "ALUCARD",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard.png",
+        "skin": [
+            {
+                "name": "Obsidian Blade Legend",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/AlucardLegend.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/Obsidian_Blade.PNG"
+            }
+
+        ]
+    },{
+        "id": 36,
+        "name": "CHOU",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/0f/Chou.png",
+        "skin": [
+            {
+                "name": "Dragon Boy",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouEpic.zip",
+                "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/5f/Dragon_Boy.jpg/revision/latest/scale-to-width-down/168?cb=20190928182136"
+            },
+            {
+                "name": "Iori Yagami",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouKOF.zip",
+                "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/82/Iori_Yagami.jpg/revision/latest/scale-to-width-down/168?cb=20190708112056"
+            },
+            {
+                "name": "King of Muay Thai",
+                "url_download": "",
+                "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/1a/King_of_the_Fighter.jpg/revision/latest/scale-to-width-down/168?cb=20171019093559"
+            }
+        ]
+    },{
+        "id": 41,
+        "name": "ALDOUS",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/b/bc/Aldous.png",
+        "skin": [
+            {
+                "name": "King of Supremacy",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/AldousM1.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/KingogSupremacy.PNG"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "name": "HARITH",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/60/Harith.png",
+        "skin": [
+            {
+                "name": "Lightbor Inspire",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/HarithLightborn.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/harrithLigthborn.PNG"
+            }
+        ]
+    }, 
+    {
+        "id": 79,
+        "name": "MIYA",
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/3/37/Miya.png",
+        "skin": [
+            {
+                "name": "Modena Butterfly Legend",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/MiyaLegend.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/Modena_Butterfly.PNG"
+            }
+        ]
+    }
+]
