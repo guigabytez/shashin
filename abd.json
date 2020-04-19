@@ -4,6 +4,7 @@
         "hero_id": 1,
         "name": "Hayabusa",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/7/78/Hayabusa.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsp6AVrh5AAB2hTL01GM4060727",
         "skin": [
             {
                 "name": "Shadow of Obscurity",
@@ -16,6 +17,7 @@
         "hero_id": 2,
         "name": "Lancelot",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/c/cd/Lancelot.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtTSAEoGpAACG4Dgpl9s2791897",
         "skin": [
             {
                 "name": "Floral Knight",
@@ -28,6 +30,7 @@
         "hero_id": 3,
         "name": "Gusion",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/b/b2/Gusion.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7xeAJX_ZAAF6-aQmyq01091541",
         "skin": [
             {
                 "name": "Moonlight Sonata",
@@ -56,6 +59,7 @@
         "id": 4,
         "name": "Granger",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/4d/Granger.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-wu-AX2PDAACZ0yEn14k256.jpg",
         "skin": [
             {
                 "name": "Lightborn - Overrider",
@@ -68,6 +72,7 @@
         "hero_id": 4,
         "name": "Fanny",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/54/Fanny.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsgmAYjdvAAFq8Ufvk9M8345030",
         "skin": [
             {
                 "name": "Skylark",
@@ -85,6 +90,7 @@
         "hero_id": 6,
         "name": "Lesley",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/69/Lesley.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp5XSWAS4sTAACF3KBj5bI2024031",
         "skin": [
             {
                 "name": "Lightborn Agent",
@@ -97,6 +103,7 @@
         "hero_id": 7,
         "name": "Franco",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/48/Franco.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPjSARDB-AACIudLuyQo8944658",
         "skin": [       
             {
                 "name": "Wheatfield Nightmare",
@@ -110,6 +117,7 @@
         "id": 8,
         "name": "Kimmy",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/65/Kimmy.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvQdfKAQs8FAACSno3WYko057.jpg",
         "skin": [
             {
                 "name": "Astrocat",
@@ -122,6 +130,7 @@
         "hero_id": 9,
         "name": "Karrie",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/11/Karrie.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtJiAIegKAAB1GyoxqLY9646942",
         "skin": [
             {
                 "name": "Gill Girl",
@@ -134,6 +143,7 @@
         "hero_id": 10,
         "name": "Claude",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/0b/Claude.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/4C/Cq2IxltpGsCAQ6vVAACafm-dqsM999.jpg",
         "skin": [
             {
                 "name": "Mecha Dragon",
@@ -146,6 +156,7 @@
         "hero_id": 11,
         "name": "Irithel",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/6b/Irithel.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtNuAShAGAACFrtziHRc2923223",
         "skin": [
             
             {
@@ -159,6 +170,7 @@
         "id": 27,
         "name": "Alucard",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard.png",
+         "cover_picture":"https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPdOAT5GKAACKKsGSRDE6559830",
         "skin": [
             {
                 "name": "Obsidian Blade Legend",
@@ -171,6 +183,7 @@
         "id": 36,
         "name": "Chou",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/0f/Chou.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs1OAe4Y7AAB6sQs4tFo8648682",
         "skin": [
             {
                 "name": "Dragon Boy",
@@ -187,6 +200,7 @@
         "id": 41,
         "name": "Aldous",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/b/bc/Aldous.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/48/Cq2IxltWy_SAWU4TAACfTAA7dJk424.jpg",
         "skin": [
             {
                 "name": "King of Supremacy",
@@ -199,6 +213,7 @@
         "id": 65,
         "name": "Harith",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/60/Harith.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/67/Cq2IxlvhXhqAHSpgAAD50hPhJ_o145.jpg",
         "skin": [
             {
                 "name": "Lightborn - Inspirer",
@@ -211,6 +226,7 @@
         "id": 79,
         "name": "Miya",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/3/37/Miya.png",
+        "cover_picture":"https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpAyOqAcoYgAAHhFjl5Ba05533979",
         "skin": [
             {
                 "name": "Modena Butterfly",
